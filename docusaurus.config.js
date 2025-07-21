@@ -19,7 +19,7 @@ const config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'dplugins-docs', // Usually your GitHub org/user name.
-  projectName: 'docs-dplugins-githubpages', // Usually your repo name.
+  projectName: 'plain-classes-gutenberg', // Usually your repo name.
   
   deploymentBranch: 'gh-pages',
 
@@ -44,7 +44,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/dplugins-docs/docs-dplugins-githubpages/tree/main/',
+            'https://github.com/dplugins-docs/plain-classes-gutenberg/tree/main/',
         },
 
         theme: {
