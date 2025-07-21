@@ -14,7 +14,7 @@ const config = {
   url: 'https://githubpagestest.dplugins.com/',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: 'https://dplugins-docs.github.io/plain-classes-gutenberg/',
+  baseUrl: '/plain-classes-gutenberg/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
