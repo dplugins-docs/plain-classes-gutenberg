@@ -81,28 +81,7 @@ const config = {
           alt: 'My Site Logo',
           src: 'img/DPlugins-logo.svg',
         },
-        items: [
-          {
-            type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
-            position: 'left',
-            label: 'Intro',
-            href: '/docs/intro',
-          },
-          {
-            type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
-            position: 'left',
-            label: 'Basics',
-            href: '/docs/category/basics',
-          },
-          {
-            type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
-            position: 'left',
-            label: 'Extras',
-            href: '/docs/category/extras',
-          },
+        items: [         
           {
             type: 'search',
             position: 'right',
