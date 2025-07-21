@@ -14,7 +14,7 @@ const config = {
   url: 'https://githubpagestest.dplugins.com/',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/plain-classes-gutenberg/',
+  baseUrl: '/docs-dplugins-githubpages/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
@@ -44,7 +44,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/dplugins-docs/docs-dplugins-githubpages/tree/main/plain-classes-gutenberg/',
+            'https://github.com/dplugins-docs/docs-dplugins-githubpages/tree/main/',
         },
 
         theme: {
